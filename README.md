@@ -1,1 +1,3 @@
-this has nothing to do with desmos. in fact, i barely remember what it does
+minecraft player finder desktop program.
+
+-omitted the tracker
